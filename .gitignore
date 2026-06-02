@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Large data files that shouldn't be in git
+historical_trader_data.csv
+fear_greed_index.csv
+merged_trader_sentiment.csv
+
+# Generated visualizations
+*.png
+
+# OS files
+.DS_Store
